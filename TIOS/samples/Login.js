@@ -26,9 +26,6 @@ class Login extends React.Component {
     }
 
 
-    //  AsyncStorage.setItem("token", accessToken);
-
-
 
 
     constructor(props) {
@@ -42,60 +39,6 @@ class Login extends React.Component {
 
     }
 
-
-    forgotService = (propss) => {
-        //propss.navigation.navigate('RootMenuView')    //Forgot
-        //propss.navigation.navigate('Forgot')    //Forgot
-        /*
-        AsyncStorage.getItem("token").then((value) => {
-            debugger
-            Promise.all([
-
-                fetch('https://api.tiosplatform.com/api/user', {
-                    method: 'GET',
-                    headers: {
-                        Accept: 'application/json',
-                        'Content-Type': 'application/json',
-                        'authorization': value
-                    },
-                }),
-                fetch('https://api.tiosplatform.com/api/project/2/spaces', {
-                    method: 'GET',
-                    headers: {
-                        Accept: 'application/json',
-                        'Content-Type': 'application/json',
-                        'authorization': value
-                    },
-                }),
-                fetch('https://api.tiosplatform.com/api/space/2/datasources', {
-                    method: 'GET',
-                    headers: {
-                        Accept: 'application/json',
-                        'Content-Type': 'application/json',
-                        'authorization': value
-                    },
-                })
-
-
-
-
-            ]).then((responseData) => {
-
-                debugger
-                alert('Success is here!')
-            }).catch((err) => {
-                alert(err);
-            })
-        })*/
-
-
-
-
-
-
-
-
-    }
 
     loginService = () =>{
         console.log("loginService called");
