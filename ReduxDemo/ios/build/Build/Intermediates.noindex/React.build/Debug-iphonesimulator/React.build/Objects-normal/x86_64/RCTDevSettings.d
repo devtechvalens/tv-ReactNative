@@ -1,0 +1,23 @@
+dependencies: \
+  /Users/dev15/Desktop/ReduxDemo/ReduxDemo/node_modules/react-native/React/Modules/RCTDevSettings.mm \
+  /Users/dev15/Desktop/ReduxDemo/ReduxDemo/node_modules/react-native/React/Modules/RCTDevSettings.h \
+  /Users/dev15/Desktop/ReduxDemo/ReduxDemo/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/dev15/Desktop/ReduxDemo/ReduxDemo/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/dev15/Desktop/ReduxDemo/ReduxDemo/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/dev15/Desktop/ReduxDemo/ReduxDemo/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/dev15/Desktop/ReduxDemo/ReduxDemo/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/dev15/Desktop/ReduxDemo/ReduxDemo/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/dev15/Desktop/ReduxDemo/ReduxDemo/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/dev15/Desktop/ReduxDemo/ReduxDemo/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/dev15/Desktop/ReduxDemo/ReduxDemo/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/dev15/Desktop/ReduxDemo/ReduxDemo/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/dev15/Desktop/ReduxDemo/ReduxDemo/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/dev15/Desktop/ReduxDemo/ReduxDemo/node_modules/react-native/React/Modules/RCTJSCSamplingProfiler.h \
+  /Users/dev15/Desktop/ReduxDemo/ReduxDemo/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/dev15/Desktop/ReduxDemo/ReduxDemo/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/dev15/Desktop/ReduxDemo/ReduxDemo/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/dev15/Desktop/ReduxDemo/ReduxDemo/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/dev15/Desktop/ReduxDemo/ReduxDemo/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
+  /Users/dev15/Desktop/ReduxDemo/ReduxDemo/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/dev15/Desktop/ReduxDemo/ReduxDemo/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/dev15/Desktop/ReduxDemo/ReduxDemo/node_modules/react-native/React/Inspector/RCTInspectorPackagerConnection.h

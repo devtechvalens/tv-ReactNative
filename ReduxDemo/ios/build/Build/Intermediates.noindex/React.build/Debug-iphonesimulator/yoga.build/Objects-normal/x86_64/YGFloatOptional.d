@@ -1,0 +1,7 @@
+dependencies: \
+  /Users/dev15/Desktop/ReduxDemo/ReduxDemo/node_modules/react-native/ReactCommon/yoga/yoga/YGFloatOptional.cpp \
+  /Users/dev15/Desktop/ReduxDemo/ReduxDemo/node_modules/react-native/ReactCommon/yoga/yoga/YGFloatOptional.h \
+  /Users/dev15/Desktop/ReduxDemo/ReduxDemo/node_modules/react-native/ReactCommon/yoga/yoga/Yoga.h \
+  /Users/dev15/Desktop/ReduxDemo/ReduxDemo/node_modules/react-native/ReactCommon/yoga/yoga/YGEnums.h \
+  /Users/dev15/Desktop/ReduxDemo/ReduxDemo/node_modules/react-native/ReactCommon/yoga/yoga/YGMacros.h \
+  /Users/dev15/Desktop/ReduxDemo/ReduxDemo/node_modules/react-native/ReactCommon/yoga/yoga/Yoga-internal.h
